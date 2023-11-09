@@ -20,7 +20,6 @@ __hii__
 _good_
 
 ~~~dell~~~
---code--
 
 'abcd'
 
@@ -39,3 +38,5 @@ Foo   | Bar
 [College](https://www.pesuacademy.com/Academy)
 
 <h1 align "center">Hello</h1>
+
+--code--
